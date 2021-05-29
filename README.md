@@ -1,4 +1,4 @@
-# Buenvenida + SetUp
+# Bienvenida + SetUp
 
 Utiliza esta lista para verificar que tienes todos los accesos y configuraciones necesarias para iniciar el bootcamp!
 
